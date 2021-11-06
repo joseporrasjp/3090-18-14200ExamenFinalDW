@@ -32,7 +32,7 @@
 <body>
 	<center>
 		<h3>Editar Usuario:</h3>
-		<form method="POST" action="editarProceso.php">
+		<form method="POST" action="editarUser.php">
 			<table>
 				<tr>
 					<td>Usuario </td>
